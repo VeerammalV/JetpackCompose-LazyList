@@ -1,1 +1,1 @@
-# JetpackCompose-LazyList
+# JetpackCompose-MVVM
